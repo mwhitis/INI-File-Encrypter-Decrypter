@@ -1,0 +1,8 @@
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\bin\Release\EncryptINI.exe.config
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\bin\Release\EncryptINI.exe
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\bin\Release\EncryptINI.pdb
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\bin\Release\MadMilkman.Ini.dll
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\bin\Release\MadMilkman.Ini.xml
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\obj\Release\EncryptINI.csprojResolveAssemblyReference.cache
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\obj\Release\EncryptINI.exe
+C:\Users\Ankrita Rana\Documents\Visual Studio 2015\Projects\Aafter me\EncryptINI\EncryptINI\obj\Release\EncryptINI.pdb
