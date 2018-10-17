@@ -46,7 +46,7 @@ namespace EncryptINI
                                 foreach (IniSection inputSec in inputIni.Sections)
                                     outputIni.Sections.Add(inputSec.Copy(outputIni));
 
-                                outputIni.Save(@"C:\Users\Ankrita Rana\Documents\config.ini");
+                                outputIni.Save(@"C:\Users\Public\Documents\config.ini");
                                 Console.WriteLine($"Encrypted File is stored in Documents with name: config.ini and Password {pass}");
                                 break;
                             case 2:
@@ -70,7 +70,7 @@ namespace EncryptINI
 
                                 Console.WriteLine("Decrypted File saved in Documents with Name Decrypted.ini.");
                                 Console.WriteLine("Read or Make changes in it Save and Encrypt it again Pressing 1.");
-                                file2.Save(@"C: \Users\Ankrita Rana\Documents\Decrypted.ini");
+                                file2.Save(@"C: \Users\Public\Documents\Decrypted.ini");
                                 break;
 
 
